@@ -1,2 +1,2 @@
-# Salto-Estratosf-rico-Felix-Baumgartner
+# Salto-Estratosferico-Felix-Baumgartner
 Modelagem de um pulo estratosférico. 
